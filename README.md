@@ -6,5 +6,5 @@
 <br><br>
 Na moim profilu będzie można znaleźć repozytoria wykonane w ramach studiów, jak i te robione "po godzinach", które - mam nadzieję - ukażą ewolucję moich umiejętności programistycznych. 
 <br><br>
-Być możę, że niektóre z nich nie będą doskonałe pod względem koncepcji, funkcjonalności, jakości kodu... Ale dla mnie równie cenne jest pokazanie czegoś takiego, ponieważ daje to skale porównawczą moich postępów.
+Być możę, że niektóre z nich nie będą doskonałe pod względem koncepcji, funkcjonalności, jakości kodu... Ale dla mnie bardzo cenne jest pokazanie czegoś takiego, ponieważ daje to skalę porównawczą moich postępów.
 <br>
