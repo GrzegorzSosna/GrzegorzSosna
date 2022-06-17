@@ -1,4 +1,4 @@
-### Hello, I'm Grzegorz Sosna 👋
+### Witam, nazywam się Grzegorz Sosna 👋
 <b>Jestem studentem Informatyki w Wyższej Szkole Bankowej w Poznaniu.
 <br>Moja pasją jest programowanie.
 </b>
