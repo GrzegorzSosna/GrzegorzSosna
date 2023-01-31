@@ -9,6 +9,6 @@ Na moim profilu można znaleźć repozytoria wykonane w ramach pracy, studiów, 
 Dla każdego programisty przeglądanie swoich starszych projektów jest nie lada wyzwaniem. Zazwyczaj wydają się one bardzo nie dopracowane pod względem koncepcji, funkcjonalności, jakości kodu... Wynika to z postępów, które czynimy. Również dla mnie jest to bardzo cenne doświadczenie, ponieważ daje to skalę porównawczą mojego rozwoju.
 <br>
 
-![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-[![My programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrzegorzSosna&layout=compact)]
+![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=GrzegorzSosna&show_icons=true&theme=transparent)
+![My programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrzegorzSosna&layout=compact)]
 
