@@ -10,5 +10,5 @@ Dla każdego programisty przeglądanie swoich starszych projektów jest nie lada
 <br>
 
 ![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=GrzegorzSosna&show_icons=true&theme=transparent)
-![My programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrzegorzSosna&layout=compact)]
+![My programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrzegorzSosna&layout=compact)
 
